@@ -1,4 +1,4 @@
-### Curso de Estatística Descritiva TMW
+# Curso de Estatística Descritiva TMW
 
 Curso abordando os princípios básicos da estatistica descritiva ministrado pela [TéoMeWhy](https://www.youtube.com/@teomewhy).
 
